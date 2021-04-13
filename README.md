@@ -5,6 +5,8 @@ The design was created by the talented and awesome UI/UX designers on my team.
 I was tasked with buidling the design with a tight 48hour deadline. finished the task with more time to spare.
 This project was very helpful and really helped build up my team communicaton skills, how to work closely with a UI/UX designer and proper time management.
 
+Link to project: https://eniolajayi.github.io/zuri-x-i4g-landing-page/
+
 Todo
 - [ ] Fix accessibility issues
 - [ ] cross-browser compatibility
