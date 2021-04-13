@@ -637,12 +637,6 @@ img {
   .footer__wrapper > * {
     margin: 1.2rem 0;
   }
-  .footer__logo {
-  }
-  .footer__group--container {
-  }
-  .footer__group--social {
-  }
 }
 @media (max-width: 768px) {
   .footer__wrapper {
